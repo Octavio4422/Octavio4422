@@ -5,19 +5,6 @@
 - I’m currently learning Backend 
 - 2022 Goals: Finish SoyHenry Bootcamp
 
-### Connect with me:
-
-<!-- [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-[![website](./img/twitter-light.svg)](https://twitter.com/Octaviopaz02#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Octaviopaz02#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/octaviopaz02#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/octaviopaz02#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/octavio-paz-448338238/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/octavio-paz-448338238/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -49,6 +36,19 @@
 
 </details>
 
+### Connect with me:
+
+<!-- [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp; -->
+[![website](./img/twitter-light.svg)](https://twitter.com/Octaviopaz02#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Octaviopaz02#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/octaviopaz02#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/octaviopaz02#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/octavio-paz-448338238/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/octavio-paz-448338238/#gh-dark-mode-only)
 
 [twitter]: https://twitter.com/Octaviopaz02
 [instagram]: https://instagram.com/octaviopaz02
