@@ -1,4 +1,4 @@
-# Hi there, I'm Octavio  👋  || Hola a todos, soy Octavio
+# Hi there, I'm Octavio || Hola a todos, soy Octavio
 
 ## I'm a Student, Web Developer (trying to be one), and a Technology Enthusiast!!
 
@@ -24,7 +24,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-    None, at least for now
+    None, at least for now 😉
 <!--END_SECTION:activity-->
 
 </details>
