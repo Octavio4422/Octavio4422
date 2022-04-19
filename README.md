@@ -16,8 +16,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/octaviopaz02#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/octaviopaz02#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/octavio-paz-448338238/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/octavio-paz-448338238/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -53,4 +53,3 @@
 [twitter]: https://twitter.com/Octaviopaz02
 [instagram]: https://instagram.com/octaviopaz02
 [linkedin]: https://www.linkedin.com/in/octavio-paz-448338238/
-[website]: https://codeSTACKr.comOctaviopaz02
