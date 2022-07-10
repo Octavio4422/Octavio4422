@@ -1,9 +1,9 @@
 # Hi there, I'm Octavio || Hola a todos, soy Octavio
 
-## I'm a Student, Web Developer (trying to be one), and a Technology Enthusiast!!
+## I'm a Student, Web/FullStack Developer, and a Technology Enthusiast!!
 
-- I’m currently learning Backend 
-- 2022 Goals: Finish SoyHenry Bootcamp
+- I’m Working on Proyects C:
+- 2022 Goals: Finish SoyHenry Bootcamp and Find an IT Job 
 
 
 ### Languages and Tools:
