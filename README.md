@@ -36,11 +36,11 @@
 
 </details>
 
-<details>
+<!--  <details>
   <summary>:zap: Top Langs</summary>
   
     <img align="left" alt="Octavio4422 GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octavio4422&layout=compact"/>
-  </details>
+  </details> -->
 
 ### Connect with me:
 
