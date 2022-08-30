@@ -1,4 +1,4 @@
-# Hi there, I'm Octavio || Hola a todos, soy Octavio
+# Hi there, I'm Octavio
 
 ## I'm a Student, Web/FullStack Developer, and a Technology Enthusiast!!
 
