@@ -4,25 +4,29 @@
 
 ### :zap: Languages and Tools:
 
-#### Front-end 
-HTML
-CSS
-Javascript
-React JS
-Redux
+#### • Languages:
+- JavaScript <br>
+- TypeScript (in Progress 😄) <br>
 
-#### Back-end
-Node JS
-Express JS
-PostgreSQL - Sequelize
-MongoDB - Mongoose
+#### • Front-end:
+- HTML <br>
+- CSS <br>
+- React JS <br>
+- Redux <br>
 
-#### Additionals
-GitHub
-Git 
-Visual Studio Code
-Agile methodologies - Scrum
-Docker (basic)
+#### • Back-end:
+- Node JS <br>
+- Express JS <br>
+- SQL Databases  <br>
+- MongoDB - Mongoose <br>
+- Sequelize <br>
+
+#### • Additionals:
+- GitHub <br>
+- Git <br>
+- Visual Studio Code <br>
+- Agile methodologies - Scrum <br>
+- Docker (basic) <br>
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -31,9 +35,6 @@ Docker (basic)
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> -->
-
-<br>
-</br>
 
 ### :zap: Connect With Me:
 
