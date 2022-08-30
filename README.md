@@ -1,6 +1,5 @@
-# Hi there, I'm Octavio
-
-## I'm a FullStack Developer, Student, and a Technology Enthusiast!!
+# Hi there, I'm Octavio !
+I'm a FullStack developer, student, and a technology enthusiast looking for his first experiences in a professional environment !
 
 ### :zap: Languages and Tools:
 
@@ -54,6 +53,9 @@
 [instagram]: https://instagram.com/octaviopaz02
 [linkedin]: https://www.linkedin.com/in/octavio-paz-448338238/
 
-### :zap: GitHub Stats:
+### :zap: Proyects:
+👇 Just below you can see pinned some of my individual and group projects 👇 <br>
+Hope you take a look 😄
 
-<img align="left" alt="Octavio4422 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Octavio4422&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<!-- ### :zap: GitHub Stats: 
+<img align="left" alt="Octavio4422 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Octavio4422&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
