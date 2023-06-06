@@ -5,7 +5,7 @@ I'm a FullStack developer, student, and a technology enthusiast looking for his 
 
 #### • Languages:
 - JavaScript <br>
-- TypeScript (in Progress 😄) <br>
+- Java (in Progress) <br>
 
 #### • Front-end:
 - HTML <br>
